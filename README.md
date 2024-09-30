@@ -28,7 +28,6 @@ This project uses [Parcel](https://parceljs.org/), a modern JavaScript build too
 1. Install the necessary dependencies with `npm install`.
 2. Start the development server with `npm start`.
 
-For detailed instructions, refer to the [Joy of React local development guide](https://courses.joshwcomeau.com/joy-of-react/project-wordle/03-dev-server).
 
 ## Acknowledgements
 
